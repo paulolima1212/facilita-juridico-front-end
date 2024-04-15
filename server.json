@@ -5,6 +5,7 @@
       "title": "Camisa T-Shirt Tech 1",
       "size": "GG",
       "price": 15,
+      "color": "black",
       "image": "/camisa1.jpg"
     },
     {
@@ -12,6 +13,7 @@
       "title": "Camisa T-Shirt Tech 2",
       "size": "M",
       "price": 15,
+      "color": "light-grey",
       "image": "/camisa2.jpg"
     },
     {
@@ -19,6 +21,7 @@
       "title": "Camisa T-Shirt Tech 3",
       "size": "G",
       "price": 15,
+      "color": "grey",
       "image": "/camisa3.jpeg"
     },
     {
@@ -26,6 +29,7 @@
       "title": "Camisa T-Shirt Tech 4",
       "size": "P",
       "price": 15,
+      "color": "blue",
       "image": "/camisa4.webp"
     },
     {
@@ -33,6 +37,7 @@
       "title": "Camisa T-Shirt Tech 4",
       "size": "M",
       "price": 15,
+      "color": "blue",
       "image": "/camisa4.webp"
     },
     {
@@ -40,6 +45,7 @@
       "title": "Camisa T-Shirt Tech 5",
       "size": "PP",
       "price": 15,
+      "color": "white",
       "image": "/camisa5.webp"
     },
     {
@@ -47,6 +53,7 @@
       "title": "Camisa T-Shirt Tech 5",
       "size": "G",
       "price": 15,
+      "color": "white",
       "image": "/camisa5.webp"
     }
   ]
