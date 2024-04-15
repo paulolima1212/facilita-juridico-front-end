@@ -1,0 +1,53 @@
+{
+  "shirts": [
+    {
+      "id": 1,
+      "title": "Camisa T-Shirt Tech 1",
+      "size": "GG",
+      "price": 15,
+      "image": "/camisa1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Camisa T-Shirt Tech 2",
+      "size": "M",
+      "price": 15,
+      "image": "/camisa2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Camisa T-Shirt Tech 3",
+      "size": "G",
+      "price": 15,
+      "image": "/camisa3.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Camisa T-Shirt Tech 4",
+      "size": "P",
+      "price": 15,
+      "image": "/camisa4.webp"
+    },
+    {
+      "id": 5,
+      "title": "Camisa T-Shirt Tech 4",
+      "size": "M",
+      "price": 15,
+      "image": "/camisa4.webp"
+    },
+    {
+      "id": 6,
+      "title": "Camisa T-Shirt Tech 5",
+      "size": "PP",
+      "price": 15,
+      "image": "/camisa5.webp"
+    },
+    {
+      "id": 7,
+      "title": "Camisa T-Shirt Tech 5",
+      "size": "G",
+      "price": 15,
+      "image": "/camisa5.webp"
+    }
+  ]
+}
