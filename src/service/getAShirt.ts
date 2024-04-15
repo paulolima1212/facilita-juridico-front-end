@@ -5,12 +5,12 @@ interface Response {
 }
 
 export async function getAShirt(id: string): Promise<Response> {
-  const shirt = await fetch(`http://localhost:3001/shirts?id=${id}`, {
+  const response = await fetch(`http://localhost:3001/shirts?id=${id}`, {
     method: 'GET',
     next: {
       revalidate: 500,
     },
   }).then((response) => response.json())
 
-  return { shirt }
+  return { shirt: response[0] }
 }
