@@ -1,13 +1,7 @@
+import { CardProps } from '@/@types/card-info'
 import Image from 'next/image'
 
-interface CardProps {
-  image: string
-  size: string
-  price: number
-  title: string
-}
-
-export function Card({ image, price, title, size }: CardProps) {
+export function Card({ image, price, title, size }: Partial<CardProps>) {
   return (
     <div className='w-56 bg-slate-100 rounded-md overflow-hidden group text-gray-900 '>
       <div className='overflow-hidden'>
@@ -16,7 +10,7 @@ export function Card({ image, price, title, size }: CardProps) {
           alt=''
           width={1500}
           height={1700}
-          src={image}
+          src={image!}
         />
       </div>
       <div className='p-4 flex-col gap-4 w-full'>
