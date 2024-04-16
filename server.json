@@ -13,7 +13,7 @@
       "title": "Camisa T-Shirt Tech 2",
       "size": "M",
       "price": 15,
-      "color": "light-grey",
+      "color": "light-gray",
       "image": "/camisa2.jpg"
     },
     {
@@ -21,7 +21,7 @@
       "title": "Camisa T-Shirt Tech 3",
       "size": "G",
       "price": 15,
-      "color": "grey",
+      "color": "gray",
       "image": "/camisa3.jpeg"
     },
     {

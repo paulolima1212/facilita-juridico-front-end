@@ -17,9 +17,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body className={inter.className}>
-        <Header />
-        {children}
+      <body className={`${inter.className} dark flex flex-col items-center`}>
+        <main className='w-[1280px]'>
+          <Header />
+          {children}
+        </main>
       </body>
     </html>
   )

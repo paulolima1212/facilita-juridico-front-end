@@ -4,4 +4,5 @@ export interface CardProps {
   size: string
   price: number
   title: string
+  color: string
 }
