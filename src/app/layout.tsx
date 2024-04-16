@@ -1,9 +1,14 @@
 import { Header } from '@/components/header'
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Inter, Share_Tech_Mono } from 'next/font/google'
 import '../styles/globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
+const shareTechMono = Share_Tech_Mono({
+  weight: '400',
+  variable: '--share-mono',
+  subsets: ['latin'],
+})
 
 export const metadata: Metadata = {
   title: 'T-Shirt Tech',
@@ -17,7 +22,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='en'>
-      <body className={`${inter.className} dark flex flex-col items-center`}>
+      <body
+        className={`${inter.className} ${shareTechMono.variable} dark flex flex-col items-center`}
+      >
         <main className='w-[1280px]'>
           <Header />
           {children}

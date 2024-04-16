@@ -2,7 +2,7 @@
   "shirts": [
     {
       "id": 1,
-      "title": "Camisa T-Shirt Tech 1",
+      "title": "Camisa T-Shirt Tech Preta",
       "size": "GG",
       "price": 15,
       "color": "black",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "Camisa T-Shirt Tech 2",
+      "title": "Camisa T-Shirt Tech Cinza claro",
       "size": "M",
       "price": 15,
       "color": "light-gray",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "title": "Camisa T-Shirt Tech 3",
+      "title": "Camisa T-Shirt Tech Cinza",
       "size": "G",
       "price": 15,
       "color": "gray",
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "title": "Camisa T-Shirt Tech 4",
+      "title": "Camisa T-Shirt Tech Azul",
       "size": "P",
       "price": 15,
       "color": "blue",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "title": "Camisa T-Shirt Tech 4",
+      "title": "Camisa T-Shirt Tech Azul",
       "size": "M",
       "price": 15,
       "color": "blue",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "title": "Camisa T-Shirt Tech 5",
+      "title": "Camisa T-Shirt Tech Branca",
       "size": "PP",
       "price": 15,
       "color": "white",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "title": "Camisa T-Shirt Tech 5",
+      "title": "Camisa T-Shirt Tech Branca",
       "size": "G",
       "price": 15,
       "color": "white",
